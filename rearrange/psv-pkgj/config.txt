@@ -1,7 +1,7 @@
 url_games https://github.com/1jtp8sobiu/NPS_JP/raw/master/rearrange/PSV_APP.tsv
 url_dlcs https://github.com/1jtp8sobiu/NPS_JP/raw/master/rearrange/PSV_AC.tsv
 url_psv_demos https://github.com/1jtp8sobiu/NPS_JP/raw/master/rearrange/dummy.txt
-url_psv_themes https://github.com/1jtp8sobiu/NPS_JP/raw/master/rearrange/PSV_THEMES.tsv
+url_psv_themes https://github.com/1jtp8sobiu/NPS_JP/raw/master/rearrange/PSV_THEME.tsv
 url_psx_games https://github.com/1jtp8sobiu/NPS_JP/raw/master/rearrange/PSX_APP.tsv
 url_psp_games https://github.com/1jtp8sobiu/NPS_JP/raw/master/rearrange/PSP_APP.tsv
 url_psp_dlcs https://github.com/1jtp8sobiu/NPS_JP/raw/master/rearrange/PSP_AC.tsv
