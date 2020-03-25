@@ -12,5 +12,5 @@ curl %URL% > rearrange\master_data\rap.tsv
 
 
 git add .
-git commit -a -m "Update tsv files"
+git commit -a -m "Update"
 git push origin master 

@@ -40,5 +40,5 @@ curl %URL% > rearrange\pkgi_themes.txt
 
 
 git add .
-git commit -a -m "Update tsv files"
+git commit -a -m "Update"
 git push origin master 
