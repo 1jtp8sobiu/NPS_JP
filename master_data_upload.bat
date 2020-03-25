@@ -1,9 +1,16 @@
-move "Y:\downlods\psn_pkg_database - pkg_meta.tsv" rearrange\master_data\pkg_meta.tsv
-move "Y:\downlods\psn_pkg_database - zrif.tsv" rearrange\master_data\zrif.tsv
-move "Y:\downlods\psn_pkg_database - zrif_psm.tsv" rearrange\master_data\zrif_psm.tsv
-move "Y:\downlods\psn_pkg_database - rap.tsv" rearrange\master_data\rap.tsv
+set URL="https://docs.google.com/spreadsheets/d/1Ea3SnmsGGndB3kJkJRtPg5FXXekOoXrTSa-2bIm1q8Y/export?format=tsv&gid=473246730"
+curl %URL% > rearrange\master_data\pkg_meta.tsv
 
-pause
+set URL="https://docs.google.com/spreadsheets/d/1Ea3SnmsGGndB3kJkJRtPg5FXXekOoXrTSa-2bIm1q8Y/export?format=tsv&gid=259406114"
+curl %URL% > rearrange\master_data\zrif.tsv
+
+set URL="https://docs.google.com/spreadsheets/d/1Ea3SnmsGGndB3kJkJRtPg5FXXekOoXrTSa-2bIm1q8Y/export?format=tsv&gid=140794933"
+curl %URL% > rearrange\master_data\zrif_psm.tsv
+
+set URL="https://docs.google.com/spreadsheets/d/1Ea3SnmsGGndB3kJkJRtPg5FXXekOoXrTSa-2bIm1q8Y/export?format=tsv&gid=118405442"
+curl %URL% > rearrange\master_data\rap.tsv
+
+
 git add .
 git commit -a -m "Update tsv files"
 git push origin master 
