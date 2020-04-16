@@ -1,4 +1,4 @@
-pkg_Title_ID	Region	Title_RIF_Missing	pkg_link	License	pkg_Content_ID	added date		pkg_File_Size		APP_VER	VERSION
+pkg_Title_ID	Region	Title_RIF_Missing	pkg_link	License	pkg_Content_ID	Date Added		pkg_File_Size		APP_VER	VERSION
 BLES00909	EU	[*No RAP] [PS3 Avatar] none          [ID: AVASSASSIN000006]	http://zeus.dl.playstation.net/cdn/EP0001/BLES00909_00/MuOFfAaHMzvHlTUzUuOBtxoQClSxxnJpVPxqRsfpMOJpfTBdkcqWGIWgUzKuMoOB.pkg	UNLOCK BY RIF	EP0001-BLES00909_00-AVASSASSIN000006	2020/01/01		102400		none	none
 BLES01384	EU	[PS3 Avatar] none          [ID: AVASSASSIN000012]	http://zeus.dl.playstation.net/cdn/EP0001/BLES01384_00/MsmMRlUqffjLaXaZPhPpBGpOrkGtYgGVROvUDjKosmPFCgpnDSzRZRJsmZDbfNVX.pkg	4897efcfafa4dff5aa324d7655aad5d3	EP0001-BLES01384_00-AVASSASSIN000012	2020/01/01		133280		none	none
 BLES00517	EU	[*No RAP] [PS3 Avatar] none          [ID: AVJUSTCAUS000009]	http://zeus.dl.playstation.net/cdn/EP0082/BLES00517_00/BnEvRREtyGTUVjUcJtoVlwOvFyvfhjmVmjMNLrbzKmPlhiBncjQFFUNKVumpudWb.pkg	UNLOCK BY RIF	EP0082-BLES00517_00-AVJUSTCAUS000009	2020/01/01		102400		none	none
