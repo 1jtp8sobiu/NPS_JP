@@ -5,4 +5,3 @@ url_psv_themes https://raw.githubusercontent.com/1jtp8sobiu/NPS_JP/master/rearra
 url_psx_games https://raw.githubusercontent.com/1jtp8sobiu/NPS_JP/master/rearrange/PSX_APP.tsv
 url_psp_games https://raw.githubusercontent.com/1jtp8sobiu/NPS_JP/master/rearrange/PSP_APP.tsv
 url_psp_dlcs https://raw.githubusercontent.com/1jtp8sobiu/NPS_JP/master/rearrange/PSP_AC.tsv
-url_comppack https://raw.githubusercontent.com/1jtp8sobiu/NPS_JP/master/rearrange/
