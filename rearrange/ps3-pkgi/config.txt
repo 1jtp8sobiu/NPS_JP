@@ -1,3 +1,4 @@
 url_games https://github.com/1jtp8sobiu/NPS_JP/raw/master/rearrange/PS3_APP.tsv
+url_dlcs https://github.com/1jtp8sobiu/NPS_JP/raw/master/rearrange/pkgi_dlcs.txt
 url_themes https://github.com/1jtp8sobiu/NPS_JP/raw/master/rearrange/pkgi_themes.txt
 url_avatars https://github.com/1jtp8sobiu/NPS_JP/raw/master/rearrange/pkgi_avatars.txt
